@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monogram-ad
 - 👀 I’m interested in coding & sports
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on new ideas with python
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on new ideas with html & css
 - 📫 How to reach me ... Gmail: adityaisrollno21@gmail.com
 
 <!---
