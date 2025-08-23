@@ -7,6 +7,7 @@
 - HTML5, CSS3, PYTHON, MYSQL, C++ (ARDUINO), WBS and JAVA(BASICS).
 - I've created many projects with Arduino and other Prog. languages but in my personal repository.
 - With some side projects and innovative ideas, I'm looking forward for collaboration on new projects!
+- Try checking out some of my work on other repository 'cloud/projectFile.pdf'
 <!---
 monogram-ad/monogram-ad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
